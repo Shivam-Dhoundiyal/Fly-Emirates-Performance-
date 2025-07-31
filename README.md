@@ -20,5 +20,11 @@ To evaluate airline and airport performance, uncover delay patterns, identify ca
 - `PowerBI Dashboard/` – .pbix file containing the interactive dashboard
 - `Insights.pdf` – Summary of key findings and business insights
 
+## 📊 Dashboard Overview
+You can download and explore the interactive Power BI file here:
+https://drive.google.com/file/d/1GBXeD-Ct7qqESLocFA_j0krzKRBj4ofE/view?usp=drive_link
+
+🔗 Download FLY EMIRATES PERFORMANCE.pbix (Google Drive)
+
 
 Feel free to explore the dashboard and dive into the data to gain valuable insights into airline performance!
